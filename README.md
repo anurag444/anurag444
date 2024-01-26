@@ -21,7 +21,6 @@
 - Working with platforms  like **Firebase**
 - 📫 How to reach me: anuragteckchandani@gmail.com
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anurag444&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag444&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🈯️ Languages I use
